@@ -39,12 +39,14 @@ Previously, he was employed at China Energy Construction Group North Power Test 
 ---
 
 ## Work Experience
-- **China Electric Power Research Institute Co., Ltd. (formerly known as Global Energy Interconnection Research Institute)| Beijing, China** (Oct 2025 – Present)  
+- **China Electric Power Research Institute Co., Ltd. (formerly known as Global Energy Interconnection Research Institute)
+  Beijing, China** (Oct 2025 – Present)  
   Business Engineer  
   - Focused on HVDC control & protection systems and integrated energy system projects  
   - Responsible for system design, testing, and project coordination  
 
-- **China Energy Engineering Group North Power Test & Research Institute | Tianjin, China** (Aug 2018 – Aug 2021)  
+- **China Energy Engineering Group North Power Test & Research Institute 
+  Tianjin, China** (Aug 2018 – Aug 2021)  
   Electrical Commissioning Engineer & Marketing Manager  
   - Power plant commissioning and market development/bidding  
   - Review and rectify design documents; verify construction and installation compliance  
