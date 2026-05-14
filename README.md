@@ -1,5 +1,9 @@
 # Yizhe Li
-**PhD in Electrical Engineering | DC Research Institute / / China Electric Power Research Institute / Global Energy Interconnection Research Institute**  
+- **PhD in Electrical Engineering**
+
+- **China Electric Power Research Institute** 
+
+- **Global Energy Interconnection Research Institute**  
 
 📧 Email: yzli@tju.edu.cn / razzer9362@gmail.com  
 📞 Phone: +86-13844872189 (WeChat same)  
