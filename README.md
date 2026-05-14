@@ -47,7 +47,8 @@ Previously, he was employed at China Energy Construction Group North Power Test 
   - Responsible for system design, testing, and project coordination  
 
 - **China Energy Engineering Group North Power Test & Research Institute**
-  Tianjin, China** (Aug 2018 – Aug 2021)  
+
+  Tianjin, China (Aug 2018 – Aug 2021)  
   Electrical Commissioning Engineer & Marketing Manager  
   - Power plant commissioning and market development/bidding  
   - Review and rectify design documents; verify construction and installation compliance  
