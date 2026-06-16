@@ -25,37 +25,6 @@
 </tr>
 </table>
 
-
-
-
-<table>
-<tr>
-<td width="250">
-
-<img src="photo.jpg" width="220">
-
-</td>
-
-<td>
-
-# Yizhe Li
-
-- **Doctoral Degree in Electrical Engineering**
-
-- China Electric Power Research Institute
-
-- Global Energy Interconnection Research Institute
-
-📧 razzer9362@gmail.com
-
-📞 +86-13844872189
-
-📅 Date of Birth: June 2, 1993  
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Profile
