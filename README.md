@@ -132,11 +132,9 @@ He combines academic research with hands-on engineering experience, bridging adv
 1. **National Key R&D Program of China (2024YFB4206900)**  
    *Key Technologies for Large-Scale Medium-Voltage DC Photovoltaic Power Generation Systems and Core Components*  
    Subproject 3: *Control & Protection Equipment Manufacturing and Real-Time Simulation Technologies for Large-Scale Medium-Voltage DC Photovoltaic Power Generation Systems*  
-   Jiangsu, China
 
 2. **CEPRI Industrialization Fund Project**  
    *Product Development of a Universal Compact Control and Protection Platform Based on Visual Programming*  
-   Beijing, China   
 
 4. **NSFC General Program (51977141)**  
    *Research on Integrated Demand Response Mechanism and Strategy of District Electricity-Heating Coupled Networks for High Renewable Energy Penetration*
