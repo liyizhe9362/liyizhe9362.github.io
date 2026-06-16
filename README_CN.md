@@ -203,7 +203,7 @@
 ## 技能
 
 - **语言能力**：英语(CET-6，IELTS 7.5，GRE 318), 德语(CEFR-A2), 中文(母语)
-- **办公软件**：LaTeX，Word，Excel，PowerPoint，Photoshop，Adobe Premiere Pro
+- **办公软件**：LaTeX，Word，Excel，PowerPoint，Photoshop，Adobe Premiere Pro, Adobe Illustrator
 - **科研软件**：MATLAB，OpenDSS，OpenMPC，MathType，Visio，Origin，AutoCAD
 - **兴趣爱好**：电子电路、3D打印、FPV穿越机、网络工程、羽毛球、篮球、乒乓球、自行车、游泳、网球
 
