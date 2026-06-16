@@ -2,7 +2,7 @@
 <tr>
 <td width="300" align="center">
 
-<img src="images/yizhe_li.jpg" width="260">
+<img src="photo.jpg" width="260">
 
 </td>
 <td style="vertical-align: middle; padding-left: 20px;">
