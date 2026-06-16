@@ -26,6 +26,20 @@
 </table>
 
 ---
+## Profile
+
+Dr. Yizhe Li is an Electrical Engineer specializing in **HVDC Control & Protection**, **Power System Automation**, and **Integrated Energy Systems**.
+
+He earned his Ph.D. in Electrical Engineering from Tianjin University in 2025. He also studied in both the United Kingdom and the United States, receiving degrees from the University of Strathclyde and the University of Kentucky.
+
+Prior to joining China Electric Power Research Institute (CEPRI), he spent three years as an Electrical Commissioning Engineer, participating in the commissioning of large-scale thermal power plants, gas turbine stations, distributed energy systems, and energy storage projects.
+
+His current work focuses on next-generation control and protection platforms for HVDC and renewable energy applications. His research interests include power system reliability, integrated energy systems, entropy-state theory, and energy quality analysis.
+
+He combines academic research with hands-on engineering experience, bridging advanced power system theory and real-world industrial applications.
+
+---
+
 
 ## Profile
 Yizhe Li holds a Ph.D. in Electrical Engineering from Tianjin University (graduated June 2025).  
