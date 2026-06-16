@@ -40,14 +40,6 @@ He combines academic research with hands-on engineering experience, bridging adv
 
 ---
 
-
-## Profile
-Yizhe Li holds a Ph.D. in Electrical Engineering from Tianjin University (graduated June 2025).  
-Since October 2025, he has been working at **China Electric Power Research Institute Co., Ltd.**, focusing on HVDC control & protection and integrated energy systems.  
-Previously, he was employed at China Energy Construction Group North Power Test & Research Institute as an Electrical Commissioning Engineer with Intermediate Engineer title. Experienced in on-site commissioning, project management, and research. Studied in the UK and USA; fluent in English, excellent communication and teamwork skills. Highly motivated to embrace challenges and continuously learn and grow.
-
----
-
 ## Education
 - **Tianjin University | Tianjin, China** (Sep 2021 – Jun 2025)  
   Ph.D. in Electrical Engineering  
