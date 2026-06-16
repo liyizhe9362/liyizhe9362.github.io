@@ -26,23 +26,6 @@
 </tr>
 </table>
 
-
-
-
-# Yizhe Li
-- **PhD in Electrical Engineering**
-
-- **China Electric Power Research Institute** 
-
-- **Global Energy Interconnection Research Institute**  
-
-
-📧 Email: razzer9362@gmail.com 
-
-📞 Phone: +86-13844872189 (WeChat same)  
-
-📅 Date of Birth: June 2, 1993  
-
 ---
 
 ## Profile
