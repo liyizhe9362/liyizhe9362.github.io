@@ -127,43 +127,45 @@ He combines academic research with hands-on engineering experience, bridging adv
 
 ### Research Projects
 
-1. **CEPRI Industrialization Fund Project (2026)**  
-   *Product Development of a Universal Compact Control and Protection Platform Based on Visual Programming*  
-   Beijing, China
 
-2. **National Key R&D Program of China**  
+
+1. **National Key R&D Program of China (2024YFB4206900)**  
    *Key Technologies for Large-Scale Medium-Voltage DC Photovoltaic Power Generation Systems and Core Components*  
    Subproject 3: *Control & Protection Equipment Manufacturing and Real-Time Simulation Technologies for Large-Scale Medium-Voltage DC Photovoltaic Power Generation Systems*  
    Jiangsu, China
 
-3. **NSFC General Program (51977141)**  
+2. **CEPRI Industrialization Fund Project**  
+   *Product Development of a Universal Compact Control and Protection Platform Based on Visual Programming*  
+   Beijing, China   
+
+4. **NSFC General Program (51977141)**  
    *Research on Integrated Demand Response Mechanism and Strategy of District Electricity-Heating Coupled Networks for High Renewable Energy Penetration*
 
-4. **National Key R&D Program of China (2018YFB0905000)**  
+5. **National Key R&D Program of China (2018YFB0905000)**  
    *Theory and Method of Planning and Design of Energy Internet Systems for New Urban Areas*
 
-5. **State Grid Headquarters Science & Technology Project**  
+6. **State Grid Headquarters Science & Technology Project**  
    *Research and Application of Local Renewable Energy Consumption Based on Spatiotemporal Matching of Distributed Photovoltaics and Agricultural Cold Chain Loads*
 
-6. **State Grid Hangzhou Power Supply Company Project**  
+7. **State Grid Hangzhou Power Supply Company Project**  
    *Large Load Impact Characteristics and Evolution Analysis for Industrial Parks*
 
-7. **China Southern Power Grid Research Project**  
+8. **China Southern Power Grid Research Project**  
    *Carbon Flow Monitoring and Analysis Technologies for Regional Integrated Energy Systems*
 
-8. **China Southern Power Grid Research Project**  
+9. **China Southern Power Grid Research Project**  
    *Key Technologies and Applications for Zero-Carbon Power Supply Stations Based on Carbon Flow Analysis*
 
-9. **State Grid Headquarters Science & Technology Project**  
+10. **State Grid Headquarters Science & Technology Project**  
    *Coordinated Control of Distributed Hydro-PV Resource Clusters for Peak Regulation in County-Level Power Systems*
 
-10. **State Grid Headquarters Science & Technology Project**  
+11. **State Grid Headquarters Science & Technology Project**  
     *Friendly Interactive Operation Optimization of All-Electric Energy Stations Based on Energy Quantity and Quality Coordination*
 
-11. **State Grid Headquarters Science & Technology Project**  
+12. **State Grid Headquarters Science & Technology Project**  
     *Typical Scenario Generation Technologies for Energy Stations under Uncertainty*
 
-12. **State Grid Headquarters Science & Technology Project**  
+13. **State Grid Headquarters Science & Technology Project**  
     *Key Technologies for Zero-Carbon Evolution of Energy Internet Systems*
 
 ### Engineering Projects
