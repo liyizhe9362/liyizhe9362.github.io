@@ -10,11 +10,11 @@
 
 # Yizhe Li
 
-**Doctoral Degree in Electrical Engineering**
+- **Doctoral Degree in Electrical Engineering**
 
-China Electric Power Research Institute
+- China Electric Power Research Institute
 
-Global Energy Interconnection Research Institute
+- Global Energy Interconnection Research Institute
 
 📧 razzer9362@gmail.com
 
