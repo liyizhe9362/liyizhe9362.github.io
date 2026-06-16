@@ -124,17 +124,60 @@ He combines academic research with hands-on engineering experience, bridging adv
 ---
 
 ## Research & Engineering Projects
-1. NSFC General Program: “Research on Integrated Demand Response Mechanism and Strategy of District Electricity-Heating Coupling Network for High Permeability of Renewable Energy Consumption” (51977141)  
-2. National Key R&D Program of China: “Theory and Method of Planning and Design of Energy Internet Energy System for New Towns” (2018YFB0905000)  
-3. China State Grid / Southern Power Grid: distributed energy and thermal power commissioning, PV and wind integration, gas-steam combined cycle, energy storage units  
+
+### Research Projects
+
+1. **NSFC General Program (51977141)**  
+   *Research on Integrated Demand Response Mechanism and Strategy of District Electricity-Heating Coupled Networks for High Renewable Energy Penetration*
+
+2. **National Key R&D Program of China (2018YFB0905000)**  
+   *Theory and Method of Planning and Design of Energy Internet Systems for New Urban Areas*
+
+3. **State Grid Headquarters Science & Technology Project (2024)**  
+   *Research and Application of Local Renewable Energy Consumption Based on Spatiotemporal Matching of Distributed Photovoltaics and Agricultural Cold Chain Loads*
+
+4. **State Grid Hangzhou Power Supply Company Project (2024)**  
+   *Large Load Impact Characteristics and Evolution Analysis for Industrial Parks*
+
+5. **China Southern Power Grid Research Project**  
+   *Carbon Flow Monitoring and Analysis Technologies for Regional Integrated Energy Systems*
+
+6. **China Southern Power Grid Research Project**  
+   *Key Technologies and Applications for Zero-Carbon Power Supply Stations Based on Carbon Flow Analysis*
+
+7. **State Grid Headquarters Science & Technology Project (2023)**  
+   *Coordinated Control of Distributed Hydro-PV Resource Clusters for Peak Regulation in County-Level Power Systems*
+
+8. **State Grid Headquarters Science & Technology Project (2022)**  
+   *Friendly Interactive Operation Optimization of All-Electric Energy Stations Based on Energy Quantity and Quality Coordination*
+
+9. **State Grid Headquarters Science & Technology Project (2022)**  
+   *Typical Scenario Generation Technologies for Energy Stations under Uncertainty*
+
+10. **State Grid Headquarters Science & Technology Project (2022)**  
+    *Key Technologies for Zero-Carbon Evolution of Energy Internet Systems*
+
+### Engineering Projects
+
+Participated in commissioning, testing, and performance verification of large-scale power generation and energy infrastructure projects, including:
+
+- **Lujiang 2×660 MW CHP Plant and 550 kV Substation**, Anhui Province
+- **Nanxiong 2×350 MW CHP Plant**, Guangdong Province
+- **Shuangyashan Unit 6 Flexibility Retrofit Project**, Heilongjiang Province
+- **Wucaiwan Phase II 2×660 MW Thermal Power Plant**, Xinjiang Province
+- **Cangzhou Yundong 2×350 MW CHP Plant and 220 kV Substation**, Hebei Province
+- **Beichen Distributed Combined-Cycle Gas Turbine Project**, Tianjin
+- **Tongli 500 kW Compressed Air Energy Storage Demonstration Project**, Suzhou
+
+Responsibilities included electrical commissioning, protection testing, startup and synchronization, performance verification, fault analysis, and technical coordination for thermal power plants, substations, gas turbine units, distributed energy systems, and energy storage facilities.
 
 ---
 
 ## Skills
 - **Languages**: English (Fluent), CET-6, IELTS 7.5, GRE 318  
-- **Office Tools**: Word, Excel, PowerPoint; Photoshop; Adobe Premiere Pro  
-- **Research Tools**: MATLAB; Visio; Mathtype; AutoCAD; OpenDSS  
-- **Hobbies**: Power electronics, networking, basketball, table tennis, badminton, tennis, cycling, swimming  
+- **Office Tools**: LaTeX, Word, Excel, PowerPoint, Photoshop, Adobe Premiere Pro  
+- **Research Tools**: MATLAB, OpenDSS, OpenMPC, MathType, Visio, Origin, AutoCAD   
+- **Hobbies**: Electronics, 3D Printing, FPV drones, Networking, Badminton, Basketball, Table Tennis, Cycling, Swimming, Tennis  
 
 ---
 
