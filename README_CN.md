@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="./README.html" style="padding:6px 12px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">English</a>
+  <a href="./README_CN.md" style="padding:6px 12px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">中文</a>
+</p>
+
+
+
+
 <table>
 <tr>
 <td width="300" align="center">
