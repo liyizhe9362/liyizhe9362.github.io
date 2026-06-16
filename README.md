@@ -86,16 +86,16 @@ He combines academic research with hands-on engineering experience, bridging adv
 ---
 
 ## Publications
-1. Yizhe Li, Dan Wang, Jiaxi Li, et al. “Entropy State Calculation Model for Integrated Energy Systems”, *Applied Energy*, 2025  
+1. Yizhe Li, Dan Wang, Hongjie Jia, et al. “Entropy State Calculation Model for Integrated Energy Systems”, *Applied Energy*, 2025  
 2. Yizhe Li, Dan Wang, Hongjie Jia, et al. “A Mechanism Model for Entropy State in Integrated Energy Systems”, *CSEE Journal of Power and Energy Systems*, 2025  
 3. Yizhe Li, Dan Wang, Hongjie Jia, et al. “An Entropy Increase Hub Model based on Standardized Matrix Method”, 4th Energy Conversion and Economics Annual Forum (ECE Forum 2024), Beijing, China, 2025, pp. 182–188  
-4. Li Yizhe, Wang Dan, Li Jiaxi, et al. “Entropy State Calculation Model for Integrated Energy Systems with Renewable Energy Integration”, *Automation of Electric Power Systems*, 2024, 48(11):162–172  
+4. Li Yizhe, Wang Dan, Hongjie Jia, et al. “Entropy State Calculation Model for Integrated Energy Systems with Renewable Energy Integration”, *Automation of Electric Power Systems*, 2024, 48(11):162–172  
 5. Wang Dan, Li Yizhe, Jia Hongjie, et al. “Multi-energy Coupled Flow Hub Modeling for Generalized Energy Quality Analysis”, *Automation of Electric Power Systems*, 2023, 47(24):52–62  
 6. Li Yizhe, Wang Dan, Jia Hongjie, et al. “Diversity Modeling of Energy Hub Nodes in Integrated Energy Systems and Typical Applicability Study”, *Integrated Intelligent Energy*, 2023, 45(07):22–29  
-7. Yizhe Li, Dan Wang, Tianshuo Zhou, et al. “Entropy State Modelling Method for Integrated Energy System based on Flow Hub Model”, *Energy Procedia*, Vol 40, 2024  
-8. Li Jiaxi, Wang Dan, Li Yizhe, et al. “Entropy Mechanism and Analysis for Renewable Energy Integration in IES”, *Automation of Electric Power Systems*, 2023, 47(09):47–58  
-9. Zhou Tianshuo, Wang Dan, Li Yizhe, et al. “Flow Tracking and Calculation Method in Integrated Energy Systems”, *Automation of Electric Power Systems*, 2023, 47(17):75–88  
-10. Cao Yitao, Wang Dan, Li Yizhe, et al. “Carbon Flow Calculation for Regional Integrated Energy Systems Considering Grid Loss Allocation”, *Automation of Electric Power Systems*, 2024, 48(12):14–23  
+7. Yizhe Li, Dan Wang, Hongjie Jia, et al. “Entropy State Modelling Method for Integrated Energy System based on Flow Hub Model”, *Energy Procedia*, Vol 40, 2024  
+8. Li Jiaxi, Wang Dan, Li Yizhe, Hongjie Jia, et al. “Entropy Mechanism and Analysis for Renewable Energy Integration in IES”, *Automation of Electric Power Systems*, 2023, 47(09):47–58  
+9. Zhou Tianshuo, Wang Dan, Li Yizhe, Hongjie Jia, et al. “Flow Tracking and Calculation Method in Integrated Energy Systems”, *Automation of Electric Power Systems*, 2023, 47(17):75–88  
+10. Cao Yitao, Wang Dan, Li Yizhe, Hongjie Jia, et al. “Carbon Flow Calculation for Regional Integrated Energy Systems Considering Grid Loss Allocation”, *Automation of Electric Power Systems*, 2024, 48(12):14–23  
 
 ---
 
