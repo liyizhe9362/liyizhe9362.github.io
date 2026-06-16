@@ -193,7 +193,7 @@ Responsibilities included electrical commissioning, protection testing, startup 
 
 ## Skills
 - **Languages**: English (Fluent, IELTS 7.5, GRE 318, CET-6), German (CEFR-A2), Chinese (Native)  
-- **Office Tools**: LaTeX, Word, Excel, PowerPoint, Photoshop, Adobe Premiere Pro  
+- **Office Tools**: LaTeX, Word, Excel, PowerPoint, Photoshop, Adobe Premiere Pro, Adobe Illustrator
 - **Research Tools**: MATLAB, OpenDSS, OpenMPC, MathType, Visio, Origin, AutoCAD   
 - **Hobbies**: Electronics, 3D Printing, FPV drones, Networking, Badminton, Basketball, Table Tennis, Cycling, Swimming, Tennis  
 
