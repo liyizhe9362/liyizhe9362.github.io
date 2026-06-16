@@ -61,7 +61,7 @@ He combines academic research with hands-on engineering experience, bridging adv
 - **China Electric Power Research Institute Co., Ltd. (formerly known as Global Energy Interconnection Research Institute)**
 
   Beijing, China (Oct 2025 – Present)  
-  Business Engineer  
+  R&D and Project Engineer
   - Focused on HVDC control & protection systems and integrated energy system projects  
   - Responsible for system design, testing, and project coordination  
 
