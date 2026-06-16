@@ -1,5 +1,35 @@
 <table>
 <tr>
+<td width="300" align="center">
+
+<img src="images/yizhe_li.jpg" width="260">
+
+</td>
+<td style="vertical-align: middle; padding-left: 20px;">
+
+<h1>Yizhe Li</h1>
+
+<p><strong>Doctoral Degree in Electrical Engineering</strong></p>
+
+<p>China Electric Power Research Institute</p>
+
+<p>Global Energy Interconnection Research Institute</p>
+
+<p>📧 Email: razzer9362@gmail.com</p>
+
+<p>📞 Phone: +86-13844872189</p>
+
+<p>📅 Date of Birth: June 2, 1993</p>
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
 <td width="250">
 
 <img src="photo.jpg" width="220">
