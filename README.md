@@ -62,8 +62,10 @@ He combines academic research with hands-on engineering experience, bridging adv
 
   Beijing, China (Oct 2025 – Present)  
   R&D and Project Engineer
-  - Focused on HVDC control & protection systems and integrated energy system projects  
-  - Responsible for system design, testing, and project coordination  
+  - Focused on next-generation control and protection platforms for HVDC transmission, SVG, and renewable energy integration
+  - Responsible for hardware development, communication and control schemes, system integration, and performance testing
+  - Support international HVDC projects through protection scheme review, technical coordination, engineering studies, and commissioning preparation
+  - Participate in national R&D programs and industrial projects related to control & protection systems, and power system reliability
 
 - **China Energy Engineering Group North Power Test & Research Institute**
 
@@ -71,7 +73,7 @@ He combines academic research with hands-on engineering experience, bridging adv
   Electrical Commissioning Engineer & Marketing Manager  
   - Power plant commissioning and market development/bidding  
   - Review and rectify design documents; verify construction and installation compliance  
-  - Commissioned 7 units ≥300MW and several small units including compressed air energy storage, gas turbine units  
+  - Commissioned 7 units ≥300MW and several small units, including compressed air energy storage, gas turbine units  
   - Mastered electrical control & protection technologies, CAD, and communication skills  
 
 ---
